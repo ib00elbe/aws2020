@@ -1,10 +1,10 @@
-package net.javaguides.springboot;
+package net.aws2020course.fullstack;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootBackendApplicationTests {
+class TwaddleBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

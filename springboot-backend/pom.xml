@@ -11,9 +11,9 @@
 	</parent>
 	
 	<groupId>net.aws2020course.fullstack</groupId>
-	<artifactId>springboot-backend</artifactId>
+	<artifactId>twaddle-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-backend</name>
+	<name>twaddle-backend</name>
 	<description>Twitter clone for AWS course </description>
 
 	<properties>

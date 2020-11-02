@@ -16,6 +16,7 @@
     "react-twitter-widgets": "^1.9.5",
     "web-vitals": "^0.2.4"
   },
+  "proxy": "http://ec2-13-53-32-253.eu-north-1.compute.amazonaws.com:8080/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

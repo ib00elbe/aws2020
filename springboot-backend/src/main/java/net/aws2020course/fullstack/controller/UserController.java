@@ -20,7 +20,8 @@ import net.aws2020course.fullstack.exception.ResourceNotFoundException;
 import net.aws2020course.fullstack.model.User;
 import net.aws2020course.fullstack.repository.UserRepository;
 
-@CrossOrigin(origins = "http://localhost:3001")
+//@CrossOrigin(origins = "http://localhost:3001")
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/v1/")
 public class UserController {

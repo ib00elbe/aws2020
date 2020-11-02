@@ -20,7 +20,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:3001")
+//@CrossOrigin(origins = "http://localhost:3001")
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/v1")
 public class TwitterController {

@@ -5,6 +5,7 @@ The source code in the current repo composes more or *less* completed **Lab 1**.
 <br>
 ## Technologies used
 React + Spring-boot + PostgreSQL
+<br>
 Served by NGINX
 <br>
 

@@ -1,6 +1,5 @@
 # AWS Course 2020 at IT Högskolan
 
-***
 
 The source code in the current repo composes more or *less* completed **Lab 1**. The application endpoint is magically served at AWS [here.](http://ec2-13-53-32-253.eu-north-1.compute.amazonaws.com/)
 <br>
